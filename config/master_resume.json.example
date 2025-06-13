@@ -1,0 +1,104 @@
+{
+  "personal_details": {
+    "name": "Abhishek Rajpura",
+    "email": "abhishekrajpura3@gmail.com",
+    "phone": "437-425-1512",
+    "linkedin": null,
+    "portfolio": null
+  },
+  "professional_summary": "Detail-oriented and results-driven Financial & Data Analyst with proven experience in real estate and property analytics. Adept at leveraging Excel, Power BI, and SQL to support financial reporting, forecasting, KPI monitoring, and system implementation. Skilled in collaborating with stakeholders and cross-functional teams to deliver actionable insights and enhance decision-making. Passionate about supporting operational efficiency, data governance, and innovation in a dynamic property management environment.",
+  "skills": [
+    "Data Visualization and Presentations",
+    "Power Automate",
+    "Power BI/Tableau",
+    "Statistical Analysis",
+    "Python & SQL",
+    "API-based integrations, Business Central & Sage X3",
+    "ERP reporting support",
+    "Real Estate & Property Analytics",
+    "SAS, SPSS",
+    "Microsoft Excel",
+    "Excel VBA automation",
+    "System Implementation Support"
+  ],
+  "experience": [
+    {
+      "title": "Data Analyst",
+      "company": "First Service Residential",
+      "dates": "May 2023 Current",
+      "bullet_points": [
+        "Designed and deployed Power Apps solutions to automate data intake workflows, reducing manual data entry time by 40%.",
+        "Built and maintained Power BI dashboards for sales, operations, and marketing-provided daily leadership insights.",
+        "Developed Excel VBA scripts to automate monthly reconciliations; saved 12 hours of manual work per week.",
+        "Supported SharePoint Online & Microsoft Teams: configured sites, managed permissions, and delivered end-user training.",
+        "Created and updated Power BI reports for property performance metrics; collaborated with the finance team to refine requirements.",
+        "Assisted in integrating M365 components with CRM and Yardi systems via REST APIs under senior developer guidance.",
+        "Documented solution designs, user guides, and runbooks to ensure maintainability and knowledge transfer."
+      ]
+    },
+    {
+      "title": "Lead Development Representative",
+      "company": "First Service Residential",
+      "dates": "June 2023-Feb 2025",
+      "bullet_points": [
+        "Assisted in developing data analytics projects to uncover actionable insights for marketing strategies.",
+        "Contributed to building data pipelines for ingestion and preprocessing using Python and SQL.",
+        "Created BI dashboards for sales performance and customer segmentation with Power BI.",
+        "Gained hands-on experience with exploratory machine learning models.",
+        "Collaborated with teams on A/B testing and analyzed results to optimize marketing efforts."
+      ]
+    },
+    {
+      "title": "Marketing/SEO Intern",
+      "company": "Evelyn Learning Systems",
+      "dates": "May 2019 Dec 2019",
+      "bullet_points": [
+        "Conducted keyword research and implemented SEO strategies to improve website visibility and organic traffic.",
+        "Analyzed web traffic metrics using tools like Google Analytics and SimilarWeb to track campaign performance.",
+        "Developed content marketing strategies aligned with organizational goals.",
+        "Optimized on-page and off-page SEO elements, including meta tags and link building, to boost search rankings."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Understanding Credit Card Default Behaviour among Millennials",
+      "description_points": [
+        "Built and evaluated decision trees, logistic regression, and neural network models using SAS Enterprise Miner.",
+        "Interpreted results to identify early indicators and reduce healthcare costs through proactive interventions."
+      ]
+    },
+    {
+      "title": "Predictive Analytics for Heart Disease Risk",
+      "description_points": [
+        "Conducted statistical analysis on default patterns among millennials using regression and classification models.",
+        "Delivered actionable insights for credit risk management and personalized financial advice strategies."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Post Graduation: Marketing Research & Analytics",
+      "university": "Centennial College of Applied Arts and Technology",
+      "year": null
+    },
+    {
+      "degree": "Post Graduation: Software Engineering",
+      "university": "Centennial College of Applied Arts and Technology",
+      "year": null
+    },
+    {
+      "degree": "Bachelors: Bachelor's in Computer Application",
+      "university": "Sardar Patel University",
+      "year": null
+    }
+  ],
+  "core_competencies": [
+    "Power Platform: Power Apps, Power Automate, Power BI report creation & maintenance",
+    "Microsoft 365: SharePoint Online/Teams configuration & support, user administration",
+    "Reporting & Analytics: SSRS/Crystal Reports, Excel VBA automation, data visualization",
+    "Integration & Automation: API-based integrations, Business Central & Sage X3 ERP reporting support",
+    "Process Improvement: Business process mapping, requirements gathering, documentation",
+    "Collaboration & Communication: Stakeholder liaison, training materials, user support"
+  ]
+}
