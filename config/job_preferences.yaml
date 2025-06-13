@@ -1,0 +1,68 @@
+# Job Search Criteria
+search_criteria:
+  keywords:
+    - "data analyst"
+    - "business analyst"
+    - "financial analyst"
+    - "business intelligence analyst"
+    - "reporting analyst"
+    - "data scientist"
+  locations:
+    - "Toronto, ON"
+    - "Mississauga, ON"
+    - "Markham, ON"
+    - "Brampton, ON"
+    - "Remote"
+    - "Hybrid"
+  experience_levels:
+    - "entry"
+    - "mid"
+    - "associate"
+  job_types:
+    - "full-time"
+    - "contract"
+    - "permanent"
+  
+# Filtering
+filters:
+  salary_min: 60000
+  salary_max: 120000
+  exclude_keywords:
+    - "senior"
+    - "director"
+    - "manager"
+    - "lead"
+    - "principal"
+  required_keywords:
+    - "excel"
+    - "sql"
+    - "power bi"
+    - "python"
+    - "analytics"
+  company_blacklist:
+    - "MLM Company"
+    - "Pyramid Scheme Inc"
+  
+# Application Settings
+application:
+  max_per_day: 50
+  max_per_hour: 10
+  delay_between: 300  # seconds
+  skip_applied: true
+  auto_apply: true
+  dry_run: false
+  
+# Resume Tailoring
+resume_tailoring:
+  match_threshold: 0.6
+  max_keywords: 10
+  include_cover_letter: true
+  personalize_summary: true
+  prioritize_skills: true
+  
+# Quality Control
+quality_control:
+  min_job_description_length: 100
+  skip_no_salary: false
+  require_job_description: true
+  check_company_reviews: false
