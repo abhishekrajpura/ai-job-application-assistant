@@ -6,10 +6,18 @@ requests==2.31.0
 lxml==4.9.3
 playwright==1.40.0
 
-# AI/LLM Integration
+# AI/LLM Integration - Cloud APIs
 openai==1.3.5
 anthropic==0.7.7
 tiktoken==0.5.1
+
+# Local LLM Integration
+ollama>=0.1.0
+transformers>=4.30.0
+torch>=2.0.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
 
 # Data Processing
 pandas==2.1.3
